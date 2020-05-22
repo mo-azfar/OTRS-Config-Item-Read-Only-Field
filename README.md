@@ -13,7 +13,7 @@
 				MaxLength: 100  
 				Size: 50  
 				Type: Text  
-				ReadOnly: 1  
+				**ReadOnly: 1**  
 			Key: SerialNumber  
 			Name: Serial Number  
 			Searchable: 1  
