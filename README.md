@@ -9,13 +9,13 @@
 		
 	Example: 
 	
-	- Input:
-    	MaxLength: 100
-    	Size: 50
-    	Type: Text
-    	ReadOnly: 1
-  	Key: SerialNumber
-  	Name: Serial Number
-  	Searchable: 1
+			- Input:  
+				MaxLength: 100  
+				Size: 50  
+				Type: Text  
+				ReadOnly: 1  
+			Key: SerialNumber  
+			Name: Serial Number  
+			Searchable: 1  
 
 	[![Capture.png](https://i.postimg.cc/c13bn7hN/Capture.png)](https://postimg.cc/grYs9Z1M)
